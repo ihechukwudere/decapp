@@ -1,2 +1,2 @@
 # decapp
-Decapp is a Decathlon events manager
+Decathapp is a Decathlon events manager.
